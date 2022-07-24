@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shubham Kumar
+- 👀 I’m interested in python, machine learning, Artificial Intelligence, Deep learning
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on a internship in ml or Deep learning
